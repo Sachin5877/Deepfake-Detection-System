@@ -6,6 +6,11 @@ Project Status: Started
 
 ## Goals
 
-- Learn GitHub
-- Learn Machine Learning
-- Build a Deepfake Detection System
+* Learn GitHub
+* Learn Machine Learning
+* Build a Deepfake Detection System
+
+
+
+Learning GitHub Desktop.
+
