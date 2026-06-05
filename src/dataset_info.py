@@ -1,6 +1,6 @@
 import os
 
-p = "dataset/deepfake_faces"
+p = "D:\\deepfake_faces"
 
 for s in os.listdir(p):
     sp = os.path.join(p, s)
