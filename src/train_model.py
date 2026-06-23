@@ -75,3 +75,8 @@ m.fit(
 loss, acc = m.evaluate(x_test, y_test)
 
 print("Accuracy:", acc)
+# add at end of train_model.py
+
+m.save("models/deepfake_detector.keras")
+
+print("Model Saved Successfully")
